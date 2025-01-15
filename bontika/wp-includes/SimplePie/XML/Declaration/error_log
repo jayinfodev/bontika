@@ -1,0 +1,33 @@
+[24-Dec-2024 07:05:42 UTC] PHP Notice:  unserialize(): Error at offset 4888 of 4916 bytes in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 38
+[24-Dec-2024 07:05:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 163
+[24-Dec-2024 07:05:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 175
+[24-Dec-2024 07:05:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 117
+[24-Dec-2024 07:05:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 122
+[24-Dec-2024 07:05:42 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(201): set_preview_url()
+#1 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(562): blogger_newPost()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 130
+[24-Dec-2024 07:05:43 UTC] PHP Notice:  unserialize(): Error at offset 4888 of 4916 bytes in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 38
+[24-Dec-2024 07:05:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 163
+[24-Dec-2024 07:05:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 175
+[24-Dec-2024 07:05:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 117
+[24-Dec-2024 07:05:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 122
+[24-Dec-2024 07:05:43 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(201): set_preview_url()
+#1 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(562): blogger_newPost()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 130
+[24-Dec-2024 07:05:44 UTC] PHP Notice:  unserialize(): Error at offset 4888 of 4916 bytes in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 38
+[24-Dec-2024 07:05:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 163
+[24-Dec-2024 07:05:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 175
+[24-Dec-2024 07:05:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 117
+[24-Dec-2024 07:05:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 122
+[24-Dec-2024 07:05:44 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(201): set_preview_url()
+#1 /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php(562): blogger_newPost()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/SimplePie/XML/Declaration/vmnwsswx.php on line 130

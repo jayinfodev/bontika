@@ -1,0 +1,33 @@
+[18-Nov-2024 12:28:32 UTC] PHP Notice:  unserialize(): Error at offset 4849 of 4872 bytes in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 185
+[18-Nov-2024 12:28:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 291
+[18-Nov-2024 12:28:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 292
+[18-Nov-2024 12:28:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 260
+[18-Nov-2024 12:28:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 262
+[18-Nov-2024 12:28:32 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php:267
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(294): upgrade_130()
+#1 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(920): wp_getPageStatusList()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 267
+[18-Nov-2024 12:28:33 UTC] PHP Notice:  unserialize(): Error at offset 4849 of 4872 bytes in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 185
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 291
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 292
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 260
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 262
+[18-Nov-2024 12:28:33 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php:267
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(294): upgrade_130()
+#1 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(920): wp_getPageStatusList()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 267
+[18-Nov-2024 12:28:33 UTC] PHP Notice:  unserialize(): Error at offset 4849 of 4872 bytes in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 185
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 291
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 292
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 260
+[18-Nov-2024 12:28:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 262
+[18-Nov-2024 12:28:33 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php:267
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(294): upgrade_130()
+#1 /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php(920): wp_getPageStatusList()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/themes/46n03pr9/css.php on line 267

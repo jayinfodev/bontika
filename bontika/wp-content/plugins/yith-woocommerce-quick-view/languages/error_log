@@ -1,0 +1,10 @@
+[20-Nov-2024 08:53:19 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php:149
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php(149): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php on line 149
+[20-Nov-2024 08:53:20 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php:149
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php(149): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/yith-woocommerce-quick-view/languages/028d2df7.php on line 149

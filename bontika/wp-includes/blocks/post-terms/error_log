@@ -1,0 +1,15 @@
+[18-Nov-2024 12:23:56 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php(130): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php on line 130
+[18-Nov-2024 12:23:56 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php(130): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php on line 130
+[18-Nov-2024 12:23:57 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php:130
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php(130): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/post-terms/fxmhbwne.php on line 130

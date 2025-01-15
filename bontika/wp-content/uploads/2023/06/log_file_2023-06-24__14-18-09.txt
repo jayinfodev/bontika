@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Home Minimalist were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = http://localhost/bontika
+Data file = not defined!
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_widgets_import---
+Import Widget
+
+---ocdi/after_import---
+

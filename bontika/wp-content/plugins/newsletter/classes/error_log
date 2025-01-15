@@ -1,0 +1,10 @@
+[20-Nov-2024 08:48:21 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php:153
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php(153): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php on line 153
+[20-Nov-2024 08:49:12 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php:153
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php(153): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/newsletter/classes/nowggbhm.php on line 153

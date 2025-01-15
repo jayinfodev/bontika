@@ -1,0 +1,5 @@
+[17-Nov-2024 13:43:54 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/disable-gutenberg/f6e225cc.php:163
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/disable-gutenberg/f6e225cc.php(163): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/disable-gutenberg/f6e225cc.php on line 163

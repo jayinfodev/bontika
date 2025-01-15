@@ -1,0 +1,5 @@
+[17-Nov-2024 13:38:43 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/vendor/maxmind-db/reader/src/MaxMind/Db/Reader/5aed5fee.php:147
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/vendor/maxmind-db/reader/src/MaxMind/Db/Reader/5aed5fee.php(147): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/vendor/maxmind-db/reader/src/MaxMind/Db/Reader/5aed5fee.php on line 147

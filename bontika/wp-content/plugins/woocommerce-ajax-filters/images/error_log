@@ -1,0 +1,33 @@
+[03-Jan-2025 12:18:42 UTC] PHP Notice:  unserialize(): Error at offset 4880 of 4930 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1948
+[03-Jan-2025 12:18:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1469
+[03-Jan-2025 12:18:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1470
+[03-Jan-2025 12:18:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1748
+[03-Jan-2025 12:18:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1756
+[03-Jan-2025 12:18:42 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1471): wp_delete_term()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1067): wp_nav_menu_disabled_check()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1777
+[03-Jan-2025 12:18:43 UTC] PHP Notice:  unserialize(): Error at offset 4880 of 4930 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1948
+[03-Jan-2025 12:18:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1469
+[03-Jan-2025 12:18:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1470
+[03-Jan-2025 12:18:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1748
+[03-Jan-2025 12:18:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1756
+[03-Jan-2025 12:18:43 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1471): wp_delete_term()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1067): wp_nav_menu_disabled_check()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1777
+[03-Jan-2025 12:18:44 UTC] PHP Notice:  unserialize(): Error at offset 4880 of 4930 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1948
+[03-Jan-2025 12:18:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1469
+[03-Jan-2025 12:18:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1470
+[03-Jan-2025 12:18:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1748
+[03-Jan-2025 12:18:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1756
+[03-Jan-2025 12:18:44 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1471): wp_delete_term()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php(1067): wp_nav_menu_disabled_check()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce-ajax-filters/images/ajax.php on line 1777

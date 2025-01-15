@@ -1,0 +1,15 @@
+[20-Nov-2024 08:53:25 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php:148
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php(148): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php on line 148
+[20-Nov-2024 08:53:26 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php:148
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php(148): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php on line 148
+[20-Nov-2024 08:53:27 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php:148
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php(148): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/js/5d597402.php on line 148

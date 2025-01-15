@@ -1,0 +1,15 @@
+[20-Nov-2024 08:53:35 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php:153
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php(153): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php on line 153
+[20-Nov-2024 08:53:36 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php:153
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php(153): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php on line 153
+[20-Nov-2024 08:53:36 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php:153
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php(153): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/wpb-woocommerce-related-products-slider/options.php on line 153

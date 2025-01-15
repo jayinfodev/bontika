@@ -1,0 +1,8 @@
+[03-Jan-2025 12:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c~() in /home/baapkidu/bontika.com/wp-includes/sitemaps/mkvuwqdg.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/sitemaps/mkvuwqdg.php on line 5
+[03-Jan-2025 12:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function c~() in /home/baapkidu/bontika.com/wp-includes/sitemaps/mkvuwqdg.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/sitemaps/mkvuwqdg.php on line 5

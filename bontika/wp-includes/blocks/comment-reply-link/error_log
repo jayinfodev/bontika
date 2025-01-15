@@ -1,0 +1,15 @@
+[20-Nov-2024 08:49:38 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php:150
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php(150): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php on line 150
+[20-Nov-2024 08:49:39 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php:150
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php(150): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php on line 150
+[20-Nov-2024 08:49:39 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php:150
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php(150): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/comment-reply-link/nhohffeo.php on line 150

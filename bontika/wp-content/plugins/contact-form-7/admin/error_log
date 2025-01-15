@@ -1,0 +1,11 @@
+[24-Dec-2024 07:07:19 UTC] PHP Notice:  unserialize(): Error at offset 5044 of 5078 bytes in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 37
+[24-Dec-2024 07:07:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 162
+[24-Dec-2024 07:07:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 174
+[24-Dec-2024 07:07:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 116
+[24-Dec-2024 07:07:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 121
+[24-Dec-2024 07:07:19 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php:129
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php(200): maybe_render()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php(561): get_postdata()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/contact-form-7/admin/wp-login.php on line 129

@@ -1,0 +1,11 @@
+[18-Nov-2024 12:27:58 UTC] PHP Notice:  unserialize(): Error at offset 4695 of 4709 bytes in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 977
+[18-Nov-2024 12:27:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 1250
+[18-Nov-2024 12:27:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 1258
+[18-Nov-2024 12:27:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 734
+[18-Nov-2024 12:27:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 737
+[18-Nov-2024 12:27:58 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php:739
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php(1262): salsa20()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php(1076): add_dependencies_to_dependent_plugin_row()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/wp-optimize/central/admin.php on line 739

@@ -1,0 +1,32 @@
+[18-Nov-2024 12:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home/baapkidu/bontika.com/wp-admin/css/themes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/themes.php on line 5
+[18-Nov-2024 12:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home/baapkidu/bontika.com/wp-admin/css/themes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/themes.php on line 5
+[18-Nov-2024 12:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ch() in /home/baapkidu/bontika.com/wp-admin/css/themes.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/themes.php on line 5
+[20-Nov-2024 08:46:57 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-admin/css/options.php:164
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-admin/css/options.php(164): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/options.php on line 164
+[20-Nov-2024 08:46:57 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-admin/css/options.php:164
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-admin/css/options.php(164): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/options.php on line 164
+[20-Nov-2024 08:53:07 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-admin/css/wp-login.php:151
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-admin/css/wp-login.php(151): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/wp-login.php on line 151
+[20-Nov-2024 08:53:08 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-admin/css/wp-login.php:151
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-admin/css/wp-login.php(151): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-admin/css/wp-login.php on line 151

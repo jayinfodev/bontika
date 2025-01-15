@@ -1,0 +1,44 @@
+[03-Jan-2025 12:18:30 UTC] PHP Notice:  unserialize(): Error at offset 4530 of 4569 bytes in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1948
+[03-Jan-2025 12:18:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1469
+[03-Jan-2025 12:18:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1470
+[03-Jan-2025 12:18:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1748
+[03-Jan-2025 12:18:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1756
+[03-Jan-2025 12:18:30 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1471): wp_dashboard_incoming_links_output()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1067): wp_check_revisioned_meta_fields_have_changed()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1777
+[03-Jan-2025 12:18:31 UTC] PHP Notice:  unserialize(): Error at offset 4530 of 4569 bytes in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1948
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1469
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1470
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1748
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1756
+[03-Jan-2025 12:18:31 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1471): wp_dashboard_incoming_links_output()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1067): wp_check_revisioned_meta_fields_have_changed()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1777
+[03-Jan-2025 12:18:31 UTC] PHP Notice:  unserialize(): Error at offset 4530 of 4569 bytes in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1948
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1469
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1470
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1748
+[03-Jan-2025 12:18:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1756
+[03-Jan-2025 12:18:31 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1471): wp_dashboard_incoming_links_output()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1067): wp_check_revisioned_meta_fields_have_changed()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1777
+[03-Jan-2025 12:18:32 UTC] PHP Notice:  unserialize(): Error at offset 4530 of 4569 bytes in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1948
+[03-Jan-2025 12:18:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1469
+[03-Jan-2025 12:18:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1470
+[03-Jan-2025 12:18:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1748
+[03-Jan-2025 12:18:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1756
+[03-Jan-2025 12:18:32 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php:1777
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1471): wp_dashboard_incoming_links_output()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php(1067): wp_check_revisioned_meta_fields_have_changed()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/admin/assets/images/ajax.php on line 1777

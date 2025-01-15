@@ -1,0 +1,25 @@
+[20-Nov-2024 08:47:22 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/js/options.php:145
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/js/options.php(145): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/js/options.php on line 145
+[20-Nov-2024 08:47:22 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/js/options.php:145
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/js/options.php(145): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/js/options.php on line 145
+[20-Nov-2024 08:47:22 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/js/options.php:145
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/js/options.php(145): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/js/options.php on line 145
+[20-Nov-2024 08:47:23 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/js/options.php:145
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/js/options.php(145): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/js/options.php on line 145
+[20-Nov-2024 08:47:24 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-includes/js/options.php:145
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/js/options.php(145): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/js/options.php on line 145

@@ -1,0 +1,11 @@
+[03-Jan-2025 12:16:48 UTC] PHP Notice:  unserialize(): Error at offset 4754 of 4781 bytes in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 807
+[03-Jan-2025 12:16:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 1191
+[03-Jan-2025 12:16:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 1202
+[03-Jan-2025 12:16:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 906
+[03-Jan-2025 12:16:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 920
+[03-Jan-2025 12:16:48 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php:921
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php(1211): get_query_var()
+#1 /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php(2077): wp_dashboard_incoming_links_output()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/rest-api/search/xkdybnuf.php on line 921

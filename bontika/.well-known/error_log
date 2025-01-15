@@ -1,0 +1,17 @@
+[18-Nov-2024 12:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ly() in /home/baapkidu/bontika.com/.well-known/themes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/.well-known/themes.php on line 6
+[18-Nov-2024 12:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ly() in /home/baapkidu/bontika.com/.well-known/themes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/.well-known/themes.php on line 6
+[18-Nov-2024 12:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ly() in /home/baapkidu/bontika.com/.well-known/themes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/.well-known/themes.php on line 6
+[20-Nov-2024 08:51:34 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/.well-known/wp-login.php:154
+Stack trace:
+#0 /home/baapkidu/bontika.com/.well-known/wp-login.php(154): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/.well-known/wp-login.php on line 154

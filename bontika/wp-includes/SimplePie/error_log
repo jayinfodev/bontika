@@ -1,0 +1,11 @@
+[18-Nov-2024 12:28:07 UTC] PHP Notice:  unserialize(): Error at offset 4705 of 4719 bytes in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 34
+[18-Nov-2024 12:28:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 332
+[18-Nov-2024 12:28:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 337
+[18-Nov-2024 12:28:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 247
+[18-Nov-2024 12:28:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 249
+[18-Nov-2024 12:28:07 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php:250
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php(338): wp_network_dashboard_right_now()
+#1 /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php(1223): get_meta_with_content_elements()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/SimplePie/admin.php on line 250

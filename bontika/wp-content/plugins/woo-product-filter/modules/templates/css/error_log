@@ -1,0 +1,33 @@
+[03-Jan-2025 12:20:24 UTC] PHP Notice:  unserialize(): Error at offset 5029 of 5089 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 21
+[03-Jan-2025 12:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 505
+[03-Jan-2025 12:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 506
+[03-Jan-2025 12:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 78
+[03-Jan-2025 12:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 83
+[03-Jan-2025 12:20:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php:85
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(515): get_border_color_classes_for_block_core_search()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(682): the_content()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 85
+[03-Jan-2025 12:20:25 UTC] PHP Notice:  unserialize(): Error at offset 5029 of 5089 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 21
+[03-Jan-2025 12:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 505
+[03-Jan-2025 12:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 506
+[03-Jan-2025 12:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 78
+[03-Jan-2025 12:20:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 83
+[03-Jan-2025 12:20:25 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php:85
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(515): get_border_color_classes_for_block_core_search()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(682): the_content()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 85
+[03-Jan-2025 12:20:27 UTC] PHP Notice:  unserialize(): Error at offset 5029 of 5089 bytes in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 21
+[03-Jan-2025 12:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 505
+[03-Jan-2025 12:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 506
+[03-Jan-2025 12:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 78
+[03-Jan-2025 12:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 83
+[03-Jan-2025 12:20:27 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php:85
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(515): get_border_color_classes_for_block_core_search()
+#1 /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php(682): the_content()
+#2 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-product-filter/modules/templates/css/ajax.php on line 85

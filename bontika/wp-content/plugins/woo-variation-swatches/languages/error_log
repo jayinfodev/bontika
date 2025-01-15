@@ -1,0 +1,20 @@
+[20-Nov-2024 08:48:13 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php:159
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php(159): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php on line 159
+[20-Nov-2024 08:48:15 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php:159
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php(159): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php on line 159
+[20-Nov-2024 08:48:16 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php:159
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php(159): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php on line 159
+[20-Nov-2024 08:48:16 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php:159
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php(159): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woo-variation-swatches/languages/qdrojglj.php on line 159

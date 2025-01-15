@@ -1,0 +1,15 @@
+[20-Nov-2024 08:48:05 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php:151
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php(151): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php on line 151
+[20-Nov-2024 08:48:05 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php:151
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php(151): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php on line 151
+[20-Nov-2024 08:48:06 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php:151
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php(151): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/revslider/languages/48f6ec00.php on line 151

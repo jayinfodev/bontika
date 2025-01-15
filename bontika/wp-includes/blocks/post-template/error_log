@@ -1,0 +1,8 @@
+[18-Nov-2024 12:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cv() in /home/baapkidu/bontika.com/wp-includes/blocks/post-template/pimrbhty.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/post-template/pimrbhty.php on line 4
+[18-Nov-2024 12:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cv() in /home/baapkidu/bontika.com/wp-includes/blocks/post-template/pimrbhty.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bontika.com/wp-includes/blocks/post-template/pimrbhty.php on line 4

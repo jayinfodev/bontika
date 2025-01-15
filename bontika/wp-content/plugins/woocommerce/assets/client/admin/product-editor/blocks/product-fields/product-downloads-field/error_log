@@ -1,0 +1,15 @@
+[18-Nov-2024 12:24:24 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php:152
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php(152): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php on line 152
+[18-Nov-2024 12:24:25 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php:152
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php(152): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php on line 152
+[18-Nov-2024 12:24:26 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php:152
+Stack trace:
+#0 /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php(152): implode()
+#1 {main}
+  thrown in /home/baapkidu/bontika.com/wp-content/plugins/woocommerce/assets/client/admin/product-editor/blocks/product-fields/product-downloads-field/6586406b.php on line 152
